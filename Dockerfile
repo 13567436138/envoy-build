@@ -1,0 +1,1 @@
+FROM gcr.io/istio-testing/build-tools-proxy:master-latest
